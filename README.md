@@ -1,5 +1,5 @@
 # Audio-Based Sentiment Analysis using Whisper and Hugging Face
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 ## Project Overview
 
 This project performs sentiment analysis on audio input using Artificial Intelligence and Natural Language Processing (NLP) techniques.
